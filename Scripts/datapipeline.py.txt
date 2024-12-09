@@ -1,0 +1,9 @@
+import pandas as pd
+
+# Load the data
+data = pd.read_csv('data/sample_data.csv')
+
+# Process the data (e.g., calculate total sales)
+total_sales = data['amount'].sum()
+
+print(f"Total sales amount: ${total_sales}")

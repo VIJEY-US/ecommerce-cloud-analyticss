@@ -1,0 +1,1 @@
+This folder is for Tableau dashboard files. Add .twb or .twbx files here.
